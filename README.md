@@ -8,7 +8,7 @@ Environment setup for easy switching between environments
 Pre-request scripts for data setup
 Test scripts for assertions and validations
 API Documentation:
-https://documenter.getpostman.com/view/13082503/2sA2xmUAJ1
+https://documenter.getpostman.com/view/38812065/2sAY4yeLvT#327fa795-7665-4483-a841-290a54b5d995
 Technology used:
 Postman
 Newman
