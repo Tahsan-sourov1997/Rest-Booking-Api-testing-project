@@ -43,3 +43,6 @@ Click Start Test to run the collection.
 View Results:
 Once the tests are complete, view the results in the Runner tab.
 Detailed test results can be viewed for each request.
+Screenshot of report :
+![image](https://github.com/user-attachments/assets/f71c95b4-2686-453f-9b2b-43099d270823)
+
