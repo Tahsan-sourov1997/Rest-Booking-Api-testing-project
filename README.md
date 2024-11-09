@@ -19,7 +19,7 @@ Newman Html Report Library
 Installation
 Postman: If you haven't already, download and install Postman.
 Clone the repository:
- git clone https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report.git
+ git clone https://github.com/Tahsan-sourov1997/Rest-Booking-Api-testing-project.git
 Import the Postman collection:
 Open Postman.
 Click on the Import button.
