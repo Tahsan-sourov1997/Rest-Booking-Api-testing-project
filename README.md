@@ -2,21 +2,21 @@
 This project demonstrates API testing using Postman, providing a collection of tests to validate various endpoints of the API.
 
 ### **Features**
-Tests for GET, POST, PUT, DELETE requests
-Collection of tests covering different API endpoints
-Environment setup for easy switching between environments
-Pre-request scripts for data setup
-Test scripts for assertions and validations
+- Tests for GET, POST, PUT, DELETE requests
+- Collection of tests covering different API endpoints
+- Environment setup for easy switching between environments
+- Pre-request scripts for data setup
+- Test scripts for assertions and validations
 ## API Documentation:
 https://documenter.getpostman.com/view/38812065/2sAY4yeLvT#327fa795-7665-4483-a841-290a54b5d995
-Technology used:
-Postman
-Newman
-Prerequisite:
-Node Js
-Newman
-Newman Html Report Library
-Installation
+### **Technology used**
+- Postman
+- Newman
+### **Prerequisite**
+- Node Js
+- Newman
+- Newman Html Report Library
+### **Installation**
 Postman: If you haven't already, download and install Postman.
 Clone the repository:
  git clone https://github.com/Tahsan-sourov1997/Rest-Booking-Api-testing-project.git
@@ -32,7 +32,7 @@ Newman Install Command:
  npm install -g newman
 Newman Html Report Install Command:
  npm install -g newman-reporter-htmlextra
-Usage
+### **Usage**
 Select Environment:
 In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
 Run Collection:
